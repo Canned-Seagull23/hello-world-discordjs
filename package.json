@@ -1,0 +1,25 @@
+{
+  "name": "hello-world-discordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Canned-Seagull23/hello-world-discordjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Canned-Seagull23/hello-world-discordjs/issues"
+  },
+  "homepage": "https://github.com/Canned-Seagull23/hello-world-discordjs#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
